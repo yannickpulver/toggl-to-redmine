@@ -25,7 +25,7 @@ submit).
 
 ### 🚧 How to install:
 
-1. Take the latest `toggl2redmine.jar` from Releases and place it on your Desktop (mac):
+1. Take the latest `toggl2redmine.jar` from [Releases](/releases) and place it on your Desktop (mac):
 2. Open Terminal
 3. Copy Paste following block into Terminal + Click Enter:
 
