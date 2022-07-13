@@ -6,8 +6,8 @@ Redmine.
 ### 🪄 Features / Commands:
 
 `t2r fetchProjects` - Adds projects from Redmine as projects in Toggl
-`t2r addTime DATE` - Adds time entries from Toggl to Redmine. Date format: 2022-06-24
-———
+
+`t2r addTime DATE` - Adds time entries from Toggl to Redmine. Date format: `2022-06-24`
 
 ### 🧑‍💻 Usage
 
