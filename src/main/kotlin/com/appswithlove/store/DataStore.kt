@@ -1,4 +1,4 @@
-package com.appswithlove
+package com.appswithlove.store
 
 import java.util.prefs.Preferences
 

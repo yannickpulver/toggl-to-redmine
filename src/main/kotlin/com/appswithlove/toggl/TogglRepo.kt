@@ -1,7 +1,7 @@
 package com.appswithlove.toggl
 
 import TimeEntry
-import com.appswithlove.DataStore
+import com.appswithlove.store.DataStore
 import com.appswithlove.json
 import kotlinx.serialization.decodeFromString
 import kotlinx.serialization.encodeToString

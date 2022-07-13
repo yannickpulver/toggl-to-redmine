@@ -1,4 +1,4 @@
-package com.appswithlove
+package com.appswithlove.store
 
 data class Store(
     val togglKey: String?,

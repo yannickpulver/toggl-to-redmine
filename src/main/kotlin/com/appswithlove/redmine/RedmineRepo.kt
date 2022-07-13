@@ -8,7 +8,7 @@ import RedmineTimeEntry
 import RedmineTimeEntryContainer
 import TimeEntryActivity
 import TimeEntryForPublishing
-import com.appswithlove.DataStore
+import com.appswithlove.store.DataStore
 import com.appswithlove.json
 import kotlinx.serialization.decodeFromString
 import kotlinx.serialization.encodeToString
@@ -17,7 +17,6 @@ import java.net.http.HttpClient
 import java.net.http.HttpRequest
 import java.net.http.HttpResponse
 import java.time.LocalDate
-import java.util.*
 import kotlin.math.roundToInt
 
 class RedmineRepo constructor(private val dataStore: DataStore) {
